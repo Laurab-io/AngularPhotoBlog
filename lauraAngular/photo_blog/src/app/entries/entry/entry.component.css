@@ -1,0 +1,46 @@
+.photoBlog {
+    background:  #ccc; 
+  } 
+
+
+    h2 {
+      color: #363636;
+      padding-left: .5em;
+      padding-top: 1em;
+  }
+
+	figure {
+      border: 1px solid #000;
+      margin: 0;
+      position: relative;
+  }
+
+	figcaption {
+      background: transparent;
+      bottom: 0;
+      color: #fff;
+      font-size: 1.2em;
+      left: 0;
+      padding: 10px;
+      position: absolute;
+      right: 0;
+  }
+
+	img {
+      display: block;
+      height: auto;
+      width: 100%;
+	}
+/* adding 1em of padding to entire scoped app*/
+	:host {
+      display: block;
+      padding: 1em;
+  }
+
+/*heart emoji */
+	.actions {
+      padding: 1em 0;
+	}
+	.liked {
+      background: #3333ff;
+    }
