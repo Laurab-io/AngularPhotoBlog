@@ -3,6 +3,7 @@
 1. Clone the repository
 2. Run `npm install`
 3. Start the server `npm run serve`
+4. Project will start on http://localhost:8080/
 
 
 #Notes for Project: 
