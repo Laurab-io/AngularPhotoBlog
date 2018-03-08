@@ -1,2 +1,0 @@
-# AngularPhotoBlog
-Angular Photo Blog
